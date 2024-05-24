@@ -1,0 +1,30 @@
+1. İki inputdan ad və soyad alın, soyadı əvvəl, adı sonra formatda çap edin.
+
+2. Ad, soyad və iş yeri daxil edin (inputdan istifadə edin) və çıxış kimi format stringdən istifadə edin:
+    Output: "Mənim adım ***, soyadım *** və mən *** işləyirəm."
+
+3. name = "Global Tech" dəyişənin hərflərini böyük hərflərə çevirib, sonra onu tərsinə çevirin.
+
+4. phrase = "Learning Python with Jed Academy" stringinin uzunluğunu və boşluqların sayını çap edin.
+
+5. phrase = "Learning Python with Jed Academy" stringindən aşağıdakıları çap edin:
+    a) Python with
+    b) Learning Pyth
+    c) on with Jed
+    d) Academy
+    e) acA deJ htiw nohtyP gni (extra)
+
+6. example_str = "Bu mətn daxilində xarakterlər tez-tez təkrarlanır."
+    - Bu stringdə her bir xarakterin neçə dəfə təkrarlandığını hesablayın.
+
+7. data = " Çoxlu boşluq ətrafında "
+    - Boşluqları silin və çıxışı çap edin. (sağdan, soldan və hər iki tərəfdən)
+
+8. sentence = "Bu mətn içərisində bəzi sözlər dəyişdirilməlidir."
+    - Bəzi sözləri digər sözlərlə əvəz edin.
+
+9. complex_string = "Split- this very- complex string!into multiple!parts"
+    - split istifadə edərək sözlərə ayırın.
+
+10. mixed_case = "hello, this is a TEST."
+    - Bütün cümləni düzgün case formatında çap edin. example (Hello, This Is A Test)

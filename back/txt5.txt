@@ -1,0 +1,79 @@
+
+
+# First python codes, print, comment 
+
+1. https://groups.eolymp.com/az/problems/990
+
+2. https://groups.eolymp.com/az/problems/1024
+
+3. https://groups.eolymp.com/az/problems/5133
+
+4. https://groups.eolymp.com/az/problems/8800
+
+
+
+# Data types, input and operations
+
+1. https://groups.eolymp.com/az/problems/272
+
+2. https://groups.eolymp.com/az/problems/959
+
+3. https://groups.eolymp.com/az/problems/519
+
+4. https://groups.eolymp.com/az/problems/906
+
+5. https://groups.eolymp.com/az/problems/945
+
+6. https://groups.eolymp.com/az/problems/4716
+
+7. https://groups.eolymp.com/az/problems/4717
+
+8. https://groups.eolymp.com/az/problems/7401
+
+9. https://groups.eolymp.com/az/problems/7943
+
+10. https://groups.eolymp.com/az/problems/7944
+
+11. https://groups.eolymp.com/az/problems/8801
+
+12. https://groups.eolymp.com/az/problems/8802
+
+13. https://groups.eolymp.com/az/problems/8807
+
+14. https://groups.eolymp.com/az/problems/8824
+
+15. https://groups.eolymp.com/az/problems/8842
+
+16. https://groups.eolymp.com/az/problems/8843
+
+17. https://groups.eolymp.com/az/problems/8844
+
+18. https://groups.eolymp.com/az/problems/8845
+
+19. https://groups.eolymp.com/az/problems/8846
+
+20. https://groups.eolymp.com/az/problems/8847
+
+21. https://groups.eolymp.com/az/problems/8848
+
+22. https://groups.eolymp.com/az/problems/8849
+
+23. https://groups.eolymp.com/az/problems/8850
+
+24. https://groups.eolymp.com/az/problems/8851
+
+25. https://groups.eolymp.com/az/problems/8852
+
+26. https://groups.eolymp.com/az/problems/8853
+
+27. https://groups.eolymp.com/az/problems/8854
+
+28. https://groups.eolymp.com/az/problems/8855
+
+29. https://groups.eolymp.com/az/problems/8856
+
+30. https://groups.eolymp.com/az/problems/8857
+
+31. https://groups.eolymp.com/az/problems/8858
+
+32. https://groups.eolymp.com/az/problems/8859

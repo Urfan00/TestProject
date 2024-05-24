@@ -1,0 +1,46 @@
+1. Append() Metodu
+    numbers = [1, 2, 3] listinə 4 rəqəmini əlavə edin və nəticəni yazın.
+
+2. Extend() Metodu
+    list1 = [1, 2, 3] və list2 = [4, 5, 6] listlərini birləşdirin və nəticəni yazın.
+
+3. Insert() Metodu
+    fruits = ['alma', 'armud'] listinə 0-cı indeksə 'banan' sözünü əlavə edin və nəticəni yazın.
+
+4.Remove() Metodu
+    colors = ['qırmızı', 'yaşıl', 'mavi'] listindən 'yaşıl' rəngini silin və nəticəni yazın.
+
+5. Pop() Metodu
+    numbers = [10, 20, 30, 40] listindən son elementi silin və həm silinmiş elementi, həm də qalan listi yazın.
+
+6.Clear() Metodu
+    data = [1, 2, 3, 4, 5] listini təmizləyin və boş listi yazın.
+
+7.Index() Metodu
+    animals = ['it', 'pişik', 'quş', 'it'] listində 'it' sözünün indeksini tapın.
+
+8. Count() Metodu
+    items = ['qələm', 'kitab', 'qələm', 'dəftər'] listində 'qələm' sözünün sayını hesablayın.
+
+9. Sort() Metodu
+    numbers = [4, 1, 3, 2] listini sıralayın və nəticəni yazın.
+
+10. Reverse() Metodu
+    letters = ['a', 'b', 'c', 'd'] listini tərsinə çevirin və nəticəni yazın.
+
+11. Slicing
+    fruits = ['alma', 'armud', 'banan', 'çiyələk', 'kiwi'] listinin ortasından son iki elementə qədər olan hissəni kəsin.
+
+12. matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]] iç içə listindən 5 elementini necə seçərdiniz?
+
+13. İlk və Son Elementi Dəyişdirmək
+    elements = ['alma', 'banan', 'çiyələk'] listinin ilk və son elementlərini yerini dəyişdirin.
+
+14. Listin İçindəki Ən Böyük Elementi Tapmaq (max)
+    numbers = [3, 7, 2, 5, 6] listində ən böyük elementi tapın.
+
+15. Listin İçindəki Ən Kiçik Elementi Tapmaq (min)
+    numbers = [3, 7, 2, 5, 6] listində ən kiçik elementi tapın.
+
+16. Listin İçindəki Elementlərin cəmini Tapmaq (sum)
+    numbers = [3, 7, 2, 5, 6] listindəki elementlərin cəmini tapın.

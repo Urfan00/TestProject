@@ -1,0 +1,52 @@
+#STRINGLƏR
+
+1. Ad, soyad daxil et (inputdan istifadə et) və tam adı çap et.
+
+2. ad soyad və yaş daxil et (inputdan istifadə et) və format stringdən istifadə et
+
+    output olaraq :  Mənim adım ****,soyadım *** . *** yaşım var
+
+
+3. name = "Jed Academy" --> name dəyişəninin bütün hərflərini böyük və kiçik hərflərə çevir.
+
+4. name = "Jed Academy" stringin uzunluğunu çap et.
+
+5. name = "Jed Academy" --> slice-dan istifadə edərək aşağıdakı nəticləri çap et.
+
+OUTPUT:
+    a) ed Acad
+    b) Jed Acad
+    c) d Academy
+    d) demy
+    e) ymedacA deJ    (extra)
+
+6. my_string = "Bu stringdə hərflər təkrarlanır." ---> Bu stringdə bir simvolun neçə dəfə olduğunu necə hesabla (count)
+
+7. name = "   Jed Academy  "   --->> dəyişəndəki boşluqları silin. (strip-dən istifadə edin)
+
+8. my_string = "Bu stringdə hərflər təkrarlanır."  ---> Bu stringdə hər hansısa hərfi və yaxudda hərfləri dəyiş. (replace-dən istifadə edin)
+
+9. my_string = "Bu\ stringdə\ split\ dən\ istifadə\ edərək\ hissələrə\ ayır." ---> split istifadə edin.
+
+10. txt = "hello, And weLCome TO my WorLD." ---> dəyişəndə ilk hərfi böyük yaz digərləri kiçik olsun. (capitalize)
+
+
+# INTEGER & FLOAT
+
+1. a = "8.5"  integerə çevir
+
+2. b = 8 floata çevir
+
+3. c = "5" floata çevir
+
+4. d = "12" integerə çevir
+
+5. iki dəyişən qəbul et və həmin ədədlərin hasilini toplanması çıxılmasını çap et
+
+6. iki dəyişən qəbul et və bir birinə nisbətinin tam , natamam və qalıq hissələrini çap edin
+
+
+# PRINT sep end
+
+1. print('hello', 'Jed', 'Academy')
+
